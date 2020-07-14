@@ -1,6 +1,6 @@
 # About Contegris - Yajra/DataTable built in Laravel
 
-> This repository below laravel packages: 
+> This repository includes following laravel packages: 
 - fzaninotto/Faker
 - Yajra/DataTable
 - Yajra/DataTable Buttons.
